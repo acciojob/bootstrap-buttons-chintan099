@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+#button-2{
+	outline-style: solid;
+	
+}
+#button-3{
+	padding:20px;
+}
+#button-4{
+	font-size:5px;
+}
+#button-5{
+	width:100%;
+}
+#button-6{
+	opacity: 0.6;
+  cursor: not-allowed;
+}
